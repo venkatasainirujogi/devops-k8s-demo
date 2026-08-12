@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: YOUR_DOCKERHUB_USERNAME/devops-k8s-demo:latest
+          image: image: 578673726898.dkr.ecr.ap-south-1.amazonaws.com/devops-k8s-demo:latest
 
           ports:
             - containerPort: 5000
